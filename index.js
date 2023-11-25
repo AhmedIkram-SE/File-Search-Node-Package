@@ -38,7 +38,8 @@ function fileRead(filePath,content) {
                 console.log("Could Not Find in file");
                 
             }
-            content=prompt('Enter data [IF NAME with spaces] to search, or press [CTRL+C] to exit: ');
+            //Input of data depends on the way data is stored in file//
+            content=prompt('Enter data to search, or press [CTRL+C] to exit: ');
         
         }
     }).catch((err) => {
