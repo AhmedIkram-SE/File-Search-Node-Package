@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "name": "file_search_simple",
+  "description": "��#\u0000 \u0000F\u0000i\u0000l\u0000e\u0000-\u0000S\u0000e\u0000a\u0000r\u0000c\u0000h\u0000-\u0000N\u0000o\u0000d\u0000e\u0000-\u0000P\u0000a\u0000c\u0000k\u0000a\u0000g\u0000e\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedIkram-SE/File-Search-Node-Package.git"
+  },
+  "keywords": [
+    "file",
+    "search"
+  ],
+  "author": "Ahmed Ikram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedIkram-SE/File-Search-Node-Package/issues"
+  },
+  "homepage": "https://github.com/AhmedIkram-SE/File-Search-Node-Package#readme"
 }
